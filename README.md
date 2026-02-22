@@ -29,6 +29,9 @@ ai-resume-analyzer/
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # List of dependencies
 └── README.md           # Project documentation
+
+```
+
 🚀 How to Run the Project
 1️⃣ Clone the Repository
 Bash
